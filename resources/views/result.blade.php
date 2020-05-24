@@ -76,7 +76,7 @@
             <!-- Här sätter vi rubriken på sidan "Search results" -->
             <div class="content">
                 <div class="title m-b-md">
-                    Search results
+                Which one is your supreme spaceship?
                 </div>
 
                 <!-- Här visar vi sidans alla länkar -->
@@ -92,7 +92,7 @@
         <th><strong><u>Origin</u></strong></th>
         <th><strong><u>Class</u></strong></th>
         <th><strong><u>Price (SpaceCoins)</u></strong></th>
-        <th><strong><u>Add amount</u></strong></th>
+        <th><strong><u>Add</u></strong></th>
       </tr>
       </br>
     </thead>

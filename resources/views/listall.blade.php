@@ -76,7 +76,7 @@
             <!-- Här sätter vi rubriken på sidan "Search for spaceships here" -->
             <div class="content">
                 <div class="title m-b-md">
-                    The spaceships
+                    Which one is your supreme spaceship?
                 </div>
 
             <!-- Här visar vi sidans alla länkar -->
