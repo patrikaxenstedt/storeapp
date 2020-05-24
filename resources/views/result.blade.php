@@ -92,7 +92,7 @@
         <th><strong><u>Origin</u></strong></th>
         <th><strong><u>Class</u></strong></th>
         <th><strong><u>Price (SpaceCoins)</u></strong></th>
-        <th><strong><u>Add amount</u></strong></th>
+        <th><strong><u>Add</u></strong></th>
       </tr>
       </br>
     </thead>
