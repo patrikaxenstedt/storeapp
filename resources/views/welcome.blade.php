@@ -74,12 +74,11 @@
             <!-- Här sätter vi rubriken på sidan "Welcome to the spaceshipstore" -->
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to the spaceshipstore!
+                    Voyages to other galaxies
                 </div>
                 <!-- Här visar vi sidans alla länkar -->
                 <div class="links">
-                    <a href="search" accesskey="2" title="">To the spaceships</a>
-                    <a href="weather" accesskey="2" title="">Weather at Area 51</a>
+                    <a href="search" accesskey="2" title="">Enter to find your supreme spaceship</a>
                     </div>
             </div>
         </div>

@@ -77,7 +77,7 @@
             <!-- Här sätter vi rubriken på sidan "Search for spaceships here" -->
             <div class="content">
                 <div class="title m-b-md">
-                    Search for spaceships here
+                    Find your spaceship
                 </div>
 
             <!-- Här visar vi sidans alla länkar -->
