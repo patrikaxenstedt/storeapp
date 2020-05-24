@@ -117,6 +117,7 @@
       <th>{{$ship->shipName}}</th>
       <th>{{$ship->shipOrigin}}</th>
       <th>{{$ship->shipClass}}</th>
+      <th>{{$ship->shipPrice}}</th>
   
       <th>
     
