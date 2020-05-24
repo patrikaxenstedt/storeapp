@@ -76,7 +76,7 @@
             <!-- Här sätter vi rubriken på sidan "Search for spaceships here" -->
             <div class="content">
                 <div class="title m-b-md">
-                    Which one is your supreme spaceship?
+                    Which is your supreme spaceship?
                 </div>
 
             <!-- Här visar vi sidans alla länkar -->
@@ -96,7 +96,7 @@
       </tr>
       </br>
     </thead>
-   
+   </div>
 
 </br>
 <!-- SÖKFUNKTIONEN -->
@@ -131,6 +131,6 @@
  
   <input type="submit" value="Confirm Order">
 </form> 
-</div>
+           
 </body>
 </html>
