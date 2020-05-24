@@ -96,7 +96,7 @@
       </tr>
       </br>
     </thead>
-   </div>
+   
 
 </br>
 <!-- SÖKFUNKTIONEN -->
@@ -131,6 +131,6 @@
  
   <input type="submit" value="Confirm Order">
 </form> 
-           
+</div>
 </body>
 </html>
