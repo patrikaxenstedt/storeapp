@@ -7,14 +7,16 @@ use Illuminate\Http\Request;
 
 class SearchController extends Controller
 {
-    /* Testa en LIKE-funktion så man kan söka på enstaka ord */
-    public function index(Request $request) {
+    /* Funktion som plockar fram "shipOrigins" som tex Starwars, Startrek och visar dessa
+      i "result.blade.php" om sökorden matchar dessa. */
+      public function index(Request $request) {
 
         $search = $request->input('search');
-        $ships = \DB::table('ships')->where('shipOrigin', $search)->get();
-        
+        $ships = \DB::table('ships')->where('shipOrigin', 'LIKE', '%' . $search)->get(); 
+    
         return view('result', ['ships' => $ships]);
     }
+    
 
     /* Funktion som plockar ut all data från table "Ships" och
        retunerar dessa till vyn "listall.blade.php".*/
