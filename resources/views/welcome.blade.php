@@ -65,14 +65,20 @@
 
             a:hover {
                 color: #636b6f;
-}
+            }
+
+           
+
+           
         </style>
     </head>
     <body>
+    
         <div class="flex-center position-ref full-height">
-            
+        
             <!-- Här sätter vi rubriken på sidan "Welcome to the spaceshipstore" -->
             <div class="content">
+            <img src="/images/gamevit.png">
                 <div class="title m-b-md">
                     Voyages to other galaxies
                 </div>
