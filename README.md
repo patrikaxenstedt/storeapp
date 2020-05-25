@@ -1,2 +1,2 @@
-# TeamYellowLaravelRestAPI
-Spaceship store!
+# Laravel, PostgreSQL
+Spaceship-store
