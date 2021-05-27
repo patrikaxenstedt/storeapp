@@ -1,2 +1,2 @@
 # Laravel, PostgreSQL
-## Spaceship-store 🚀🛸
+# Spaceship-store
